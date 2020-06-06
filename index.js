@@ -2,5 +2,5 @@
 const twoFer = (name) => //type function here
 
 
-module.exports = twoFer;
+module.exports = twoFer;.
 
